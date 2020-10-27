@@ -1,0 +1,12 @@
+nav,
+ul,
+li {
+  display: inline-block;
+}
+
+ul a {
+  font-size: 20px;
+}
+a::before {
+  content: "♥︎";
+}
